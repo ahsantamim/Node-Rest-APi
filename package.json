@@ -1,0 +1,26 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "This project involves creating a RESTful API to interact with JSON data containing information such as name, address, ID, and university. The API will support standard HTTP methods including GET, POST, PATCH, and DELETE to perform CRUD operations on the data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "uding fields for name, address, ID, and university."
+  },
+  "repository": {
+    "type": "git",
+    "url": " allowing modification of fields like address, university, or name."
+  },
+  "keywords": [
+    "JSON",
+    "data",
+    "based",
+    "on",
+    "specified",
+    "identifiers."
+  ],
+  "author": "will adhere to REST principles, providing predictable and consistent URLs for accessing and manipulating the data. Proper error handling and status code responses will be implemented to ensure robustness and usability.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
